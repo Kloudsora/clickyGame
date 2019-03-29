@@ -1,51 +1,51 @@
 [
     {
       "id": 1,
-      "image": "angelfish.jpg"
+      "image": "Aang.png"
     },
     {
       "id": 2,
-      "image": "barracuda.jpeg"    
+      "image": "Appa.png"    
     },
     {
       "id": 3,
-      "image": "butterfly.jpg"
+      "image": "Azula.png"
     },
     {
       "id": 4,
-      "image": "chromis.jpg" 
+      "image": "Iroh.png" 
     },
     {
       "id": 5,
-      "image": "clownfish.jpg"
+      "image": "Katara.png"
     },
     {
       "id": 6,
-      "image": "creolewrasse.jpg"
+      "image": "Long.png"
     },
     {
       "id": 7,
-      "image": "damselfish.jpg"
+      "image": "Ozai.png"
     },
     {
       "id": 8,
-      "image": "grunt.jpg"
+      "image": "Sokka.png"
     },
     {
       "id": 9,
-      "image": "parrotfish.jpg"
+      "image": "Suki.png"
     },
     {
       "id": 10,
-      "image": "rockbeauty.jpg"
+      "image": "Toph.png"
     },
     {
       "id": 11,
-      "image": "sergeantmajor.JPG"
+      "image": "Zhao.png"
     },
     {
       "id": 12,
-      "image": "tang.jpg"
+      "image": "Zuko.png"
     }
   ]
   
