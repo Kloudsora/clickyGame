@@ -4,8 +4,8 @@ import "./Jumbotron.css";
 
 const Jumbotron = () => (
 	<header className = "header">
-		<h1>Fishy Clicky Game!</h1>
-		<h2>Click on any image to earn a point, but don't click on the same picture more than once. Click all 12 pics, and you win.</h2>
+		<h1>Avatar Click Game!</h1>
+		<h2>Click on any character to earn a point, but don't click on the same character more than once. Click all 12 pics, and you win.</h2>
 	</header>
 );
 
